@@ -28,8 +28,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: badbadbadsteve
 github_username:  aaoafk
 
-source: "/home/sf/Documents/notes/_posts"
-
 # Build settings
 theme: minima
 plugins:
